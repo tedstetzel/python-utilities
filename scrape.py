@@ -2,7 +2,7 @@ import csv
 import requests
 from BeautifulSoup import BeautifulSoup
 
-
+#test comment
 
 pages = ['https://symphonycommerce.com/page1' 'https://symphonycommerce.com/page2']
 
